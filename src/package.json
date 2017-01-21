@@ -34,7 +34,10 @@
   "homepage": "https://github.com/lestan/alexa-starter-kit#readme",
   "dependencies": {
     "alexa-sdk": "^1.0.3",
-    "seedrandom": "^2.4.2"
+    "seedrandom": "^2.4.2",
+    "alexia": "^2.4.0",
+    "hapi": "^16.1.0"
+
   },
   "devDependencies": {
     "aws-lambda-mock-context": "^3.0.0",
